@@ -2,6 +2,8 @@
 
 > requires flask, vk, requests
 
-> ideal for hosting on pythonanywhere.com
+ideal for hosting on [pythonanywhere.com](pythonanywhere.com)
 
-> the code is presented "as is"
+the code is presented "as is"
+
+try at [VK](https://vk.com/im?sel=-179060074)
